@@ -1,6 +1,6 @@
 {
-  "version": "6.4",
-  "versionCode": 100,
-  "zipUrl": "https://github.com/pumPCin/zaprett/releases/download/6.4.0/zaprett.zip",
+  "version": "6.6",
+  "versionCode": 66,
+  "zipUrl": "https://github.com/pumPCin/zaprett/releases/download/6.6.0/zaprett.zip",
   "changelog": "https://raw.githubusercontent.com/pumPCin/zaprett/refs/heads/main/changelog.md"
 }
