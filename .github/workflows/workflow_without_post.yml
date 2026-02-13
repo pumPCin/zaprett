@@ -91,9 +91,9 @@ jobs:
           name=zaprett
           version=${{ inputs.version }}
           versionCode=${{ inputs.version_code }}
-          author=egor-white, Cherret
+          author=pumPCin, Cherret
           description=Ускорение CDN серверов Google. ТГК: https://t.me/zaprett_module
-          updateJson=https://raw.githubusercontent.com/egor-white/zaprett/refs/heads/main/update.json
+          updateJson=https://raw.githubusercontent.com/pumPCin/zaprett/refs/heads/main/update.json
           EOF
 
           cat > zaprett-hosts/module.prop <<EOF
@@ -101,9 +101,9 @@ jobs:
           name=zaprett-hosts
           version=${{ inputs.version }}
           versionCode=${{ inputs.version_code }}
-          author=egor-white, Cherret
+          author=pumPCin, Cherret
           description=Ускорение CDN серверов Google. ТГК: https://t.me/zaprett_module
-          updateJson=https://raw.githubusercontent.com/egor-white/zaprett/refs/heads/main/update-hosts.json
+          updateJson=https://raw.githubusercontent.com/pumPCin/zaprett/refs/heads/main/update-hosts.json
           EOF
 
       - name: Create archives
